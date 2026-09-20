@@ -98,3 +98,9 @@ a:hover {
 a:active {
   color: brown;
 }
+
+audio {
+  display: inline-block;
+  width: 100%;
+  margin: auto;
+}
